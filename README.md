@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working to solve a supply chain issue in FMCG Domain by generating decision driven insights <br>🌱 I’m currently learning Pandas, Matplotlib, Tableau<br>💬 Ask me about Power BI , SQL , Python , MS Excel , DAX<br>📫 How to reach me sarthakrajimwale98@gmail.com<br>👨‍💻 All of my projects are available at <br>http://127.0.0.1:5500/index.htmlhttp://127.0.0.1:5500/index.html<br>
+🔭 I’m currently working to solve a supply chain issue in FMCG Domain by generating data driven decisions <br>🌱 I’m currently learning Pandas, Matplotlib, Tableau<br>💬 Ask me about Power BI , SQL , Python , MS Excel , DAX<br>📫 How to reach me sarthakrajimwale98@gmail.com<br>👨‍💻 All of my projects are available at <br>http://127.0.0.1:5500/index.htmlhttp://127.0.0.1:5500/index.html<br>
 
 
 ## 🌐 Socials:
